@@ -1,0 +1,6 @@
+# Javascript Map Polyfill
+
+This project demonstrates how Javascript's works internally by creating a custom polyfill from scratch.
+
+The goal of this project is to understand how higher-order functions operate and how using basic concepts like loops and callbacks.
+
